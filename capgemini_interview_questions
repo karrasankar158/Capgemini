@@ -1,0 +1,80 @@
+Interview questions #8
+Organization - Capgemini
+
+Level : 1
+
+About project
+- Explain about your project and tech stack you are using
+- What are your roles and responsibilities in your team
+
+Core java
+- Explain features of java 8
+- What are functional interfaces
+- What are streams?
+- What is a CompletableFuture?
+- What is collections framework?
+ - What all things have you used in the collection framework?
+- Difference between HashMap and Hashtable
+
+Coding
+- Fetch the second highest salary
+
+Spring framework
+- Why send data in batches to database instead of sending all in one go?
+- What is a rest API, what do you know about the REST framework?
+- What is the use of status codes in rest?
+- Why do we use different methods in rest APIs?
+- How will spring application understand the JSON request you send?
+- Why are you using JDBCTemplate over hibernate?
+- How do you achieve spring security?
+
+Microservices
+- What do you know about micro services?
+- How to do load balancing? What is eureka?
+- How do you scale your applications?
+- How do you deploy services?
+- What are the steps involved in deploying a service?
+
+Circuit Breaker
+- How to do circuit breaking? What framework do you use for it?
+- What is an open, half open and closed state?
+
+Spring security
+- What do you know about JWT tokens?
+
+Some generic questions
+- What are the critical and difficult defects you have fixed?
+- What technologies have you used?
+- Have you used docker and Kubernetes?
+
+
+Level : 2
+
+About project
+- Explain about your project and tech stack you are using
+- What are your roles and responsibilities in your team
+
+Core java
+- Difference between == and equals
+- What are the latest java feature in latest versions?
+- Difference between Collection and Collections
+- How HashMap works?
+- How do you synchronize a HashMap?
+- Why do we have concurrent HashMap when we can synchronize HashMap?
+- What is the use of streams in java?
+- What is a lambda expression?
+- What is a scope resolution operator?
+
+Coding
+- Write a program to print the count of each character in a string
+
+Spring framework
+- Difference between @Autowired and @Qualifier?
+- How do you handle exceptions in spring boot?
+- Have you worked on hibernate?
+
+Microservices
+- How to setup a microservice architecture?
+- How do you establish communication between two microservices?
+- Are these calls synchronous or asynchronous?
+- Explain the microservice design patterns you have worked on
